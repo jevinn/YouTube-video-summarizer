@@ -37,8 +37,6 @@ streamlit run main.py
 - google.generativeai
 - youtube_transcript_api
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - This project utilizes Google's GenerativeAI API and the YouTube Transcript API for transcript extraction.
